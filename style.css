@@ -1,0 +1,21 @@
+/* */
+
+html {
+    background-color: lavender;
+}
+
+.center{
+    text-align: center;
+    color: gray;
+    font-family: "Helvetica", Arial, sans-serif;
+}
+#name {
+    text-align: left;
+    color: gray;
+    font-family: "Arial", Cochin, Times;
+}
+#image {
+    width: 400px;
+    display: block;
+    margin: auto;
+}
